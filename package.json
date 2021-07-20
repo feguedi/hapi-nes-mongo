@@ -1,0 +1,27 @@
+{
+  "name": "ejemplo-hapi-nes",
+  "version": "1.0.0",
+  "description": "Ejemplo de Hapi con Mongo y Nes",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify public/main.js > public/bundle.js",
+    "dev": "nodemon index.js -e js,html",
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@hapi/boom": "^9.1.3",
+    "@hapi/hapi": "^20.1.5",
+    "@hapi/inert": "^6.0.3",
+    "@hapi/nes": "^12.0.4",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "handlebars": "^4.7.7",
+    "jquery": "^3.6.0",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "nodemon": "^2.0.12"
+  }
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "createdAt": "2021-07-15T09:15:00Z",
+        "user": "una",
+        "message": "Magna ex magna reprehenderit duis qui.",
+        "avatar": "40.jpg"
+    }, {
+        "createdAt": "2021-07-16T19:25:00Z",
+        "user": "kimmy",
+        "message": "Ad magna id ipsum non minim laboris laboris sint dolor aliquip sunt labore mollit sunt.",
+        "avatar": "49.jpg"
+    }, {
+        "createdAt": "2021-07-17T22:03:00Z",
+        "user": "trsh4",
+        "message": "Aliquip fugiat nisi sunt irure excepteur officia laboris cupidatat aute reprehenderit ut nostrud exercitation exercitation.",
+        "avatar": "63.jpg"
+    }, {
+        "createdAt": "2021-07-18T12:55:00Z",
+        "user": "ghostr",
+        "message": "Anim veniam minim qui officia cillum elit incididunt.",
+        "avatar": "19.jpg"
+    }, {
+        "createdAt": "2021-07-18T13:45:00Z",
+        "user": "rob_the_one",
+        "message": "Ad tempor occaecat qui non pariatur.",
+        "avatar": "86.jpg"
+    }
+]
